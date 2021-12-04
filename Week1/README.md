@@ -87,29 +87,3 @@ Hello👋,This is my second Test Automation Project.I used Page Object Model in 
 🟢The automation validates the Test.
 
 
-## Bilgisayarınızda Çalıştırın
-
-Projeyi klonlayın
-
-```bash
-  git clone https://github.com/tuyluogluramazan/CicekSepetiTestAutomationHomeWorks/tree/main/Week1
-```
-
-Proje dizinine gidin
-
-```bash
-  cd CicekSepetiTestAutomationHomeWorks\Week1
-```
-
-Gerekli paketleri yükleyin
-
-```bash
-  npm install
-```
-
-Sunucuyu çalıştırın
-
-```bash
-  npm run start
-```
-
